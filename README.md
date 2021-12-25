@@ -1,7 +1,7 @@
 >   **IP Grabber**
 
-❗ Do not forget to not use it for malicious purposes, it's only for educational purposes.
-❗ You are solely responsible for your actions, that's obviously not me.
+  ⚠️ Do not forget to not use it for malicious purposes, it's only for educational purposes.
+      You are solely responsible for your actions, that's obviously not me. ⚠️
 
 >   **How to use:**
   - My IP Grabber is really easy to use, just host the "index.php" file,
